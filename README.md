@@ -4,11 +4,24 @@
 
 The "Environmental Impact of Transportation" project is a Python-based web platform designed to assist users in making eco-friendly commuting choices. By integrating transportation data, traffic patterns, and emissions statistics, the system offers personalized recommendations for more sustainable transportation alternatives. Users can input their daily commute details and preferences to receive insights into the environmental impact of their current transportation methods.
 
+YOU MUST SUPPLY YOUR OWN API KEYS FOR THIS PROJECT TO WORK. SEE THE [CONFIGURATION](#configuration) SECTION FOR MORE DETAILS.
+
 ## Project Objectives
 
 - **Environmental Awareness:** Increase awareness about the environmental impact of transportation choices.
 - **Sustainability:** Encourage users to adopt more eco-friendly commuting options.
 - **Data-Driven Decision Making:** Provide users with data-driven insights for informed commuting decisions.
+
+## Configuration
+
+- The following API's require an API Key:
+  - Google Maps Directions API
+  - HERE API
+
+Note: I have not provided my own API Key for security reasons. You must supply your own API Key for this project to work. To obtain an API Key, please visit the following websites:
+
+- [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/get-api-key)
+- [HERE API](https://developer.here.com/documentation/authentication/dev_guide/topics/api-key-credentials.html)
 
 ## Data Sources
 
